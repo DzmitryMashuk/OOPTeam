@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OOP;
+namespace OOPTeam;
 
 include_once("Worker.php");
 include_once("Developer.php");
